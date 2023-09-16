@@ -1,0 +1,7 @@
+﻿  graphes.cpp
+E:\repos\graphes\graphes\graphes.cpp(80,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\repos\graphes\graphes\graphes.cpp(126,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\repos\graphes\graphes\graphes.cpp(182,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\repos\graphes\graphes\graphes.cpp(93): warning C4715: deep_search: значение возвращается не при всех путях выполнения
+E:\repos\graphes\graphes\graphes.cpp(139): warning C4715: deicstra: значение возвращается не при всех путях выполнения
+  graphes.vcxproj -> E:\repos\graphes\x64\Debug\graphes.exe
